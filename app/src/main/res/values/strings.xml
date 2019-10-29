@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="Button1_text">Button1</string>
+    <string name="Button2_text" >Next</string>
+    <string name="Button3_text">Back</string>
+    <string name="Image_desc">Image - Access denied</string>
+</resources>
